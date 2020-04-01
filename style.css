@@ -1,0 +1,22 @@
+h1 {
+    color: rebeccapurple;
+    font-family: Georgia;
+}
+p { color: rebeccapurple;
+    font-family: Georgia;
+}
+h2 {
+    color: deeppink;
+    font-family: monospace;
+}
+h3 {
+    color: deeppink;
+    font-family: monospace;
+}
+h4 {
+    color: deeppink;
+    font-family: monospace;
+}
+body {
+    background-color: lightskyblue;
+}
