@@ -20,3 +20,22 @@ h4 {
 body {
     background-color: lightskyblue;
 }
+
+ul {
+    list-style-type: lower-greek;
+    background-color: floralwhite;
+    margin: 80px 80px 80px 80px;
+    border-width: 10px 10px 10px 10px;
+    border-color: deepskyblue;
+    border-style: groove;
+    
+}
+
+ol {
+    list-style: lower-greek;
+    background-color: floralwhite;
+    margin: 80px 80px 80px 80px;
+    border-width: 15px 15px 15px 15px;
+    border-color: deepskyblue;
+    border-style: groove;
+}
